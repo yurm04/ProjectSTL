@@ -1,0 +1,33 @@
+solid cube_corner
+          facet normal 0.0 -1.0 0.0
+            outer loop
+              vertex 0.0 0.0 0.0
+              vertex 1.0 0.0 0.0
+              vertex 0.0 0.0 1.0
+            endloop
+          endfacet
+          facet normal 0.0 0.0 -1.0
+            outer loop
+              vertex 0.0 0.0 0.0
+              vertex 0.0 1.0 0.0
+              vertex 1.0 0.0 0.0
+            endloop
+          endfacet
+          facet normal 0.0 0.0 -1.0
+            outer loop
+              vertex 0.0 0.0 0.0
+              vertex 0.0 0.0 1.0
+              vertex 0.0 1.0 0.0
+            endloop
+          endfacet
+          facet normal 0.577 0.577 0.577
+            outer loop
+              vertex 1.0 0.0 0.0
+              vertex 0.0 1.0 0.0
+              vertex 0.0 0.0 1.0
+            endloop
+          endfacet
+13:12  up 19:12, 2 users, load averages: 0.62 0.89 0.93
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+Yurm     console  -                Mon18   19:11 -
+Yurm     s000     -                13:10       - w
